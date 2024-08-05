@@ -1,11 +1,11 @@
 # Business-card
 
-###Project brief
+### Project brief
 
 Craft a dynamic digital Business Card tailored for the modern developer. It's not just an ordinary card, but a vibrant reflection of you. Set the stage for your personal or professional digital presence and ensure you stand out in the vast digital realm.
 
 
-###What i learned
+### What i learned
 
 -HTML Mastery: Enhance your foundational HTML skills by crafting a structured and accessible content layout, turning design concepts into interactive web pages.
 
@@ -13,7 +13,7 @@ Craft a dynamic digital Business Card tailored for the modern developer. It's no
 
 -Interactive Animations: Elevate user experience by integrating subtle animations like fade-ins and skeleton loading. This provides a dynamic touch, ensuring a captivating first impression.
 
-####Requirements
+#### Requirements
 -Create a full-page background with a centered card layout.
 -Add a user contact section on the left of the card with email, phone, and clickable social icons.
 -Add a user image in the center of the card.

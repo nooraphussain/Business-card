@@ -1,5 +1,8 @@
 # Business-card
 
+
+![Screenshot 2024-08-05 at 10 03 16 AM](https://github.com/user-attachments/assets/8a79626d-3542-4561-8799-9248bdd7bc48)
+
 ### Project brief
 
 Craft a dynamic digital Business Card tailored for the modern developer. It's not just an ordinary card, but a vibrant reflection of you. Set the stage for your personal or professional digital presence and ensure you stand out in the vast digital realm.

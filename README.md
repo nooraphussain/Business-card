@@ -24,3 +24,6 @@ Craft a dynamic digital Business Card tailored for the modern developer. It's no
 - Add a user info section on the right of the card with name, position, location, description, and technologies.
 - Implement absolute-positioned shapes to improve the layout.
 - Enhance user experience with animations, such as image-loading skeleton animation or fade-in effects
+
+
+click https://nooraphussain.github.io/Business-card/ to access

@@ -1,7 +1,7 @@
 # Business-card
 
+![Uploading Screenshot 2024-08-05 at 10.20.22 AM.png…]()
 
-![Screenshot 2024-08-05 at 10 03 16 AM](https://github.com/user-attachments/assets/8a79626d-3542-4561-8799-9248bdd7bc48)
 
 ### Project brief
 
